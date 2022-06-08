@@ -1,6 +1,5 @@
 # Basic_ShinyApp_Mexico
-Se desarrolla una aplicación básica Shiny-Dashboard en R. Con distintos datos de México
 
-![6iychc](https://user-images.githubusercontent.com/91161586/172543265-136d70a9-34f7-435b-9d2f-2fb182149edb.gif)
- 
- sdfdddddddddddddddddddddddddddddddddddddddddddd
+### Se desarrolla una aplicación básica Shiny-Dashboard en R con distintas bases de datos.
+
+![IMG_3477 (3)](https://user-images.githubusercontent.com/91161586/172546043-8bccc1f6-8930-4261-a40b-0f835dc330be.gif)
